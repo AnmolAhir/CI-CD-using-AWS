@@ -4,7 +4,6 @@
 - Go to [AWS IAM Console](https://console.aws.amazon.com/iam/)
 - Create a user with **AWS S3 Full Access**
 - Attach the necessary policy
-
 ![IAM Console – Create User](IMG/IAM_User.png)
 
 ## 2. ✅ Create an S3 Bucket
