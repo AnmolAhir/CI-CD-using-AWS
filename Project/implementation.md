@@ -6,6 +6,7 @@
 - Attach the necessary policy
 
 ![IAM Console – Create User](IMG/IAM_User.png)
+
 ![IAM Console – Create User](IMG/S3POLICY.png)
 
 
