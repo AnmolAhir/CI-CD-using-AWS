@@ -5,7 +5,7 @@
 - Create a user with **AWS S3 Full Access**
 - Attach the necessary policy
 
-![IAM Console – Create User](IMG/IAM_USER.png)
+![IAM Console – Create User](IMG/IAM_User.png)
 ![IAM Console – Create User](IMG/S3POLICY.png)
 
 
