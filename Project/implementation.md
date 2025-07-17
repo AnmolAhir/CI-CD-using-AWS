@@ -7,7 +7,6 @@
 
 ![IAM Console – Create User](IMG/IAM_User.png)
 
-
 ## 2. ✅ Create an S3 Bucket
 - Go to [AWS S3 Console](https://s3.console.aws.amazon.com/)
 - Click **Create bucket**
